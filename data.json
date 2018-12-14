@@ -1,0 +1,20 @@
+[
+  {
+    "firstName": "George",
+    "lastName": "Smerin",
+    "email": "gsmerin@gmail.com",
+    "instrument": "guitar"
+  },
+  {
+    "firstName": "Jorge",
+    "lastName": "Smerinho",
+    "email": "gsmerin@gmail.com",
+    "instrument": "cavaquinho"
+  },
+  {
+    "firstName": "Bai",
+    "lastName": "Konte",
+    "email": "bai@kora.com",
+    "instrument": "kora"
+  }
+]
